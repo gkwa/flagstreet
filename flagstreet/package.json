@@ -15,7 +15,7 @@
     "@types/node": "24.12.0",
     "@types/prettier": "3.0.0",
     "jest": "30.3.0",
-    "ts-jest": "29.4.6",
+    "ts-jest": "29.4.9",
     "aws-cdk": "3.0.0",
     "ts-node": "10.9.2",
     "typescript": "6.0.2"
